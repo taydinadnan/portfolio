@@ -1,0 +1,5 @@
+{
+    "s3BucketName": "portfolio-adnan-bucket",
+    "cloudFrontDomain": "https://d2wqohkwwi2h38.cloudfront.net"
+  }
+  
